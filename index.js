@@ -1,4 +1,6 @@
-console.log("Hoge")
+const text = "Hoge"
+
+console.log(text)
 console.log("Hoge 2")
 
 function Hoge() {
