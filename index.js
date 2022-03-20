@@ -1,7 +1,3 @@
-console.log("Delete Line")
-console.log("Delete Line")
-console.log("Delete Line")
-console.log("Delete Line")
 const text = "Hoge"
 
 console.log(text)
